@@ -1,3 +1,5 @@
+wget -N --no-check-certificate https://raw.githubusercontent.com/XGR-yang/ss-onrkeyinstall/master/shadowsocksR.sh && chmod +x shadowsocksR.sh && bash shadowsocksR.sh
+
 ![Shadowsocks](https://github.com/wjk199511140034/ss-onekeyinstall/blob/master/shadowsocks.png)
 # Auto install Shadowsocks Server
 
